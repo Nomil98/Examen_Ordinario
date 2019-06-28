@@ -93,5 +93,15 @@ void main(){
                  anilloB=1;
              }
      }
+     
+     if(contar==1){
+          if((dato&0x11)>0){
+             flagcontadorB=1;
+     }
+     
+     
+   }
+   
+     
   }
 }
